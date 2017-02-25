@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\adam\documents\visual studio 2015\projects\money\money\source.cpp(46): warning C4715: 'operator<<': not all control paths return a value
+c:\users\adam\documents\visual studio 2015\projects\money\money\source.cpp(36): warning C4715: 'Money::get_amount': not all control paths return a value
+  money.vcxproj -> c:\users\adam\documents\visual studio 2015\Projects\money\Debug\money.exe
+  money.vcxproj -> c:\users\adam\documents\visual studio 2015\Projects\money\Debug\money.pdb (Full PDB)
